@@ -1,3 +1,13 @@
+
+Cinthya Paola Palafox García 315297324
+
+Requerimiento del sistema:
+maven  
+java open-jdk 11
+google chrome (ultima versión)
+
+Ejecución del programa :
+
 Posicionarse en la terminal justo en la carpeta que contiene este README.md e ingresar los comandos como se indicac a continuación sin el signo de pesos'$'
 
 Para compilar
